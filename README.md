@@ -1,4 +1,4 @@
-##TESTE AUTOMATIZADO - ENGENHARIA DE SOFTWARE
+## TESTE AUTOMATIZADO - ENGENHARIA DE SOFTWARE
 
 A atividade abaixo refere-se à captura de testes automatizados utilizando as ferramentas **Selenium IDE** e **JMeter**. 
 
